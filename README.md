@@ -2,8 +2,8 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/free-vector/black-neural-network-illustration_53876-78760.jpg?t=st=1722467199~exp=1722470799~hmac=8075031f60b9aa79864d863465526a3da126e74b342a518af4651cf5d1fb2169&w=826">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Welcome to my Repository" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/free-vector/white-with-low-poly-network-connection_1017-29753.jpg?w=1380&t=st=1722467509~exp=1722468109~hmac=f9fc3c72cfa22a4262a70b7df5a7f8cf0e705a84e481fc0c4421564b41fbe646">
+ <img alt="Welcome to my Repository" src="https://img.freepik.com/free-vector/white-with-low-poly-network-connection_1017-29753.jpg?w=1380&t=st=1722467509~exp=1722468109~hmac=f9fc3c72cfa22a4262a70b7df5a7f8cf0e705a84e481fc0c4421564b41fbe646">
 </picture>
 
 
